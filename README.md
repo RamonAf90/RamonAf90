@@ -43,6 +43,8 @@ Software development student at **kood/Sisu**
 - CLI application development  
 - Backend fundamentals  
 - Real-time application basics  
+- UI implementation with React and modern CSS  
+- UX awareness and user-focused design basics  
 
 **Currently Exploring**
 - Prompt engineering  
