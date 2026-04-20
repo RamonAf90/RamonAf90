@@ -47,6 +47,7 @@ Software development student at **kood/Sisu**
 - UX awareness and user-focused design basics  
 
 **Currently Exploring**
+- Learning Python
 - Prompt engineering  
 - Generative AI applications  
 - Advanced full-stack patterns    
